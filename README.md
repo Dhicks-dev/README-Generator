@@ -15,19 +15,11 @@ efficent projectto produce readme files
 ## Installation
 clone project and run node index.js to start the process
 
-## Usage
-
-
 ## License
 This project is licensed under the MIT License.
 
-## Contributing
-undefined
-
-## Tests
-undefined
 
 ## Questions
 If you have any questions, feel free to reach out:
-- GitHub: [undefined](https://github.com/dhicke-dev)
+- GitHub: [https://github.com/dhicke-dev]
 
